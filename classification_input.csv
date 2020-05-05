@@ -1,0 +1,62 @@
+,0,1,2,3,4,5
+0,DATE,PARTICULARS,Memo,WITHDRAW,DEPOSIT,BALANCE
+1,1-Jan-19,Chase ATM,ATM Withdrawal,100,0,319.08
+2,1-Jan-19,Chase ATM,ATM Withdrawal,100,0,219.08
+3,1-Jan-19,Chase ATM,ATM Withdrawal,100,0,119.08
+4,1-Jan-19,Chase ATM,ATM Withdrawal,100,0,19.08
+5,2-Jan-19,Salary,Income payment,0,"10,103.66","10,122.74"
+6,2-Jan-19,Chase ATM,ATM Withdrawal,100,0,"10,022.74"
+7,2-Jan-19,Chase ATM,ATM Withdrawal,100,0,"9,922.74"
+8,3-Jan-19,Shopping,Amazon Order,"9,500.00",0,422.74
+9,7-Jan-19,Salary,Payroll Income,0,"6,490.89","6,913.63"
+10,7-Jan-19,Shopping,eBay Online,"6,000.00",0,913.63
+11,10-Jan-19,Dining,DoorDash Food,500,0,413.63
+12,10-Jan-19,Insurance,Geico Insurance,200,0,213.63
+13,10-Jan-19,Shopping,Nike Online Store,13,0,200.63
+14,11-Jan-19,Shopping,Adidas Online Store,100.63,0,100.00
+15,11-Jan-19,Shopping,UNIQLO Store,50.00,0,50.00
+16,11-Jan-19,Salary,Paycheck Income,0,"2,000.00","2,050.00"
+17,11-Jan-19,Chase ATM,ATM Deposit,0,50.00,"2,010.00"
+18,12-Jan-19,Insurance,AAA Insurance,10.00,0,"2,000.00"
+19,12-Jan-19,Entertainment,AMC Theater,10.00,0,"1,990.00"
+20,12-Jan-19,Entertainment,Movie Ticket,20.00,0,"1,970.00"
+21,12-Jan-19,Dining,Panda Express Food,15.00,0,"1,955.00"
+22,12-Jan-19,Dining,In and Out Burger,15.00,0,"1,940.00"
+0,13-Jan-19,Shopping,Amazon Fresh,40.00,0,"1,900.00"
+1,13-Jan-19,Insurance,State Farm Insurance,100.00,0,"1,800.00"
+2,13-Jan-19,Chase ATM,ATM Deposit,200.00,0,"2,000.00"
+3,13-Jan-19,Dining,Five Guys Burger,50.00,0,"1,950.00"
+4,14-Jan-19,Dining,Italian Restaurant,100.00,0,"1,800.00"
+5,15-Jan-19,Dining,Chinese Restaurant,100.00,0,"1,700.00"
+6,16-Jan-19,Dining,Japanese Restaurant,100.00,0,"1,600.00"
+7,16-Jan-19,Dining,Sushi Restaurant Food,100.00,0,"1,500.00"
+8,17-Jan-19,Shopping,BestBuy Online Store,300.00,0,"1,200.00"
+9,17-Jan-19,Shopping,Amazon Prime,100.00,0,"1,100.00"
+10,17-Jan-19,Entertainment,AMC Theater Ticket,100.00,0,"1,000.00"
+11,17-Jan-19,Insurance,Car Insurance,100.00,0,900.00
+12,18-Jan-19,Transfer,Incoming Transfer,0,"5,000.00","5,900.00"
+13,18-Jan-19,Utilities,PG&E Bill Payment,200.00,0,"5,700.00"
+14,18-Jan-19,Utilities,AT&T Mobile Bill,50.00,0,"5,650.00"
+15,18-Jan-19,Utilities,Water Bill,150.00,0,"5,500.00"
+16,19-Jan-19,Transfer,Outgoing Transfer,500.00,0,"5,000.00"
+17,19-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,100.00"
+18,20-Jan-19,Shopping,Old Navy Store,100.00,0,"5,000.00"
+19,20-Jan-19,Shopping,Apple Inc Store,"1,000.00",0,"4,000.00"
+20,20-Jan-19,Transfer,Incoming Transfer,0.00,"2,000.00","6,000.00"
+21,20-Jan-19,Transfer,Outgoing Transfer,100.00,0,"5,900.00"
+22,20-Jan-19,Dining,DoorDash Order,10.00,0,"5,890.00"
+23,21-Jan-19,Dining,Uber Eats Order,90.00,0,"5,800.00"
+24,21-Jan-19,Entertainment,Movie Ticket,100.00,0,"5,700.00"
+25,21-Jan-19,Entertainment,Game Stop,100.00,0,"5,600.00"
+26,21-Jan-19,Dining,Chinese Restaurant,100.00,0,"5,500.00"
+27,21-Jan-19,Dining,BBQ Restaurant,100.00,0,"5,400.00"
+28,22-Jan-19,Dining,Pizza Restaurant,100.00,0,"5,300.00"
+29,22-Jan-19,Dining,Wings Restaurant,100.00,0,"5,200.00"
+30,23-Jan-19,Dining,Curry Restaurant,100.00,0,"5,100.00"
+31,23-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,200.00"
+32,23-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,300.00"
+33,23-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,400.00"
+34,23-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,500.00"
+35,23-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,600.00"
+36,23-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,700.00"
+37,23-Jan-19,Chase ATM,ATM Deposit,0,100.00,"5,800.00"
